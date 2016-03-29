@@ -1,4 +1,5 @@
 //Quote of the Day
+package assignment4;
 
 import java.util.*;
 import java.io.*;
@@ -14,11 +15,11 @@ public class QuoteOfTheDay{
 		"Life is 10% what happens to you and 90% how you react to it.\n\t-Charles R. Swindoll",
 		"In order to succeed, we must first believe that we can.\n\t-Nikos Kazantzakis",
 		"What you do today can improve all your tomorrows.\n\t-Ralph Marston",
-            	"If oppurtunity doesn't knock, build a door.\n\t-Milton Burle",
-            	"It is always the simple that produces the marvellousn\n\t-Amelia Barr",
-            	"Only a life lived for others is a life worthwhile.\n\t-Albert Einstein",
-            	"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.\n\t-G. B. Shaw",
-            	"Either you do it perfect, or you don't do it at all.\n\t-Elon Musk"
+        "If oppurtunity doesn't knock, build a door.\n\t-Milton Burle",
+        "It is always the simple that produces the marvellousn\n\t-Amelia Barr",
+        "Only a life lived for others is a life worthwhile.\n\t-Albert Einstein",
+        "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.\n\t-G. B. Shaw",
+        "Either you do it perfect, or you don't do it at all.\n\t-Elon Musk"
 	};
 	
 	public static void main(String args[]){
